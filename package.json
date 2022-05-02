@@ -41,5 +41,16 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "description": "React Component selector engine. Provides a `querySelectorAll` type interface for React components rendered into a particular tree.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/healthline/react-query-selector.git"
+  },
+  "author": "Phil Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/healthline/react-query-selector/issues"
+  },
+  "homepage": "https://github.com/healthline/react-query-selector#readme"
 }
