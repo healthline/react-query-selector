@@ -1,9 +1,10 @@
 {
-  "name": "react-query-selector",
-  "version": "1.5.1",
+  "name": "@healthline/react-query-selector",
+  "version": "2.0.0",
   "main": "dist/react-query-selector.cjs.js",
   "module": "dist/react-query-selector.esm.js",
   "browser": "dist/react-query-selector.umd.js",
+  "private": true,
   "dependencies": {
     "css-select": "^2.0.2",
     "domutils": "^2.0.0"
