@@ -4,7 +4,6 @@
   "main": "dist/react-query-selector.cjs.js",
   "module": "dist/react-query-selector.esm.js",
   "browser": "dist/react-query-selector.umd.js",
-  "private": true,
   "dependencies": {
     "css-select": "^2.0.2",
     "domutils": "^2.0.0"
